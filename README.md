@@ -6,11 +6,11 @@ Welcome to the "Define Training Path" repository. This repository aims to provid
 This section is designed to guide students and young graduates in starting and advancing their careers in technology.
 
 ### a) Computer Science Career Guidance
-- [Computer Science Career Guidance]([link-to-sub-repo](https://github.com/alushaks/CS-Career-Guidance))
+- [Computer Science Career Guidance]((https://github.com/alushaks/CS-Career-Guidance))
 - Guidance on career paths, necessary skills, and job search strategies.
 
 ### b) GitHub Mastery
-- [GitHub Mastery]([link-to-sub-repo](https://github.com/alushaks/GitHub-Mastery))
+- [GitHub Mastery]((https://github.com/alushaks/GitHub-Mastery))
 - Learn how to use GitHub for version control, collaboration, and portfolio building.
 
 ### c) Outlook Training
